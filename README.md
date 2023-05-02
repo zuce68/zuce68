@@ -25,27 +25,20 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 📝 I regularly write articles on [pierremisiuk.fr](https://pierremisiuk.fr/)
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 📫 Feel free to reach me out **misiuk.pierre@gmail.com**
+<!--- - 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
-
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
-
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
-
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
-
-- 🏠 Also We've a tech community called [Dev Hac](https://discord.com/invite/p4TWyft886).
+<!--- 🏠 Also We've a tech community called [Dev Hac](https://discord.com/invite/p4TWyft886).
 <!--Intro end-->
 
 
 
-<!--- stats & Trophy (start) -->
+<!-- - stats & Trophy (start)
 <p align="center">
   <!--- stats (start) -->
-<table align="center">
+<!-- <table align="center">
 <tr border="none">
 <td width="50%" align="center">
   
@@ -58,7 +51,7 @@
 </table>
 <!--- stats (end) -->
 
-</p>        
+<!---</p>         --> 
 <!--- stats (end) -->
 
 
@@ -78,11 +71,11 @@
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
-<div id="user-content-toc">
+<!-- <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
   </ul>
-</div>
+</div> -->
 
 <!--icons and links-->
 <p align="center">
